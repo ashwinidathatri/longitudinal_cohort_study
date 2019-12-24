@@ -1,4 +1,4 @@
-# ship-cohort-study
+# logitudinal_cohort_study
 Interpretable Machine Learning to understand Participant Evolution in Longitudinal Cohort Study Data
 
 ## Tasks
